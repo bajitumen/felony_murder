@@ -1,7 +1,5 @@
 # Felony Murder Project
-Felony murder investigation 
 
-# Introduction
 Every year, many Americans are wrongly convicted of murder due to the obscure law known as the felony murder rule. In 48 states and DC, an individual can be held accountable for a death that occurs during the commission of a crime, regardless of their intent to cause that death. This law has a significant impact on the American justice system, but the picture of who gets charged with felony murder, how often, and why remains unclear due to the missingness of data.
 
 # Goal
